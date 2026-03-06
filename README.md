@@ -7,8 +7,10 @@ Official Node.js / TypeScript SDK for the [ThreadSync API](https://www.threadsyn
 
 ## Installation
 
+> **Preview**: SDKs are in preview and installed from GitHub. Registry packages (npm, PyPI, etc.) will be available at GA.
+
 ```bash
-npm install @threadsync/sdk
+npm i github:threadsync-infrastructure/threadsync-node
 ```
 
 ## Quick Start
